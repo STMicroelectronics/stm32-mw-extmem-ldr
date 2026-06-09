@@ -1,6 +1,6 @@
 # Middleware STM32 External Memory Loader
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32-mw-extmem-ldr.svg?color=brightgreen)
+![tag](https://img.shields.io/badge/tag-v1.1.2-brightgreen.svg)
 
 ## Overview
 
